@@ -59,11 +59,10 @@ class Yacin:
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎭 dream-portal-tests](https://github.com/Yac0z/dream-portal-tests) | Playwright E2E test suite — QA intern assignment | TypeScript · Playwright |
-| [🧠 LLMs-from-scratch](https://github.com/Yac0z/LLMs-from-scratch) | ChatGPT-like LLM built in PyTorch, step by step | Python · PyTorch · Jupyter |
-| [⚡ speed-test-app](https://github.com/Yac0z/speed-test-app) | Real-time internet speed test with Next.js 16 | TypeScript · Next.js |
-| [🔌 embedded-project-template](https://github.com/Yac0z/embedded-project-template) | Reusable scaffold for embedded C projects | C · Makefile · GCC |
-| [🅿️ Gestion-de-Parking](https://github.com/Yac0z/Gestion-de-Parking) | FPGA parking system — FSM, counters, subtractors | VHDL · Artix-7 |
-| [🌐 vipa-website](https://github.com/Yac0z/vipa-website) | Company website with integrated chatbot | HTML · JavaScript |
+| [🚚 logisticapp](https://github.com/Yac0z/logisticapp) | Multi-tenant logistics SaaS — real-time shipment tracking & webhook-driven status updates | TypeScript |
+| [⚡ speed-test-app](https://github.com/Yac0z/speed-test-app) | Real-time internet speed test with Next.js 16, history tracking & ISP detection | TypeScript · Next.js |
+| [🔬 riscv16-vhdl](https://github.com/Yac0z/riscv16-vhdl) | 16-bit RISC-V CPU core implemented in VHDL | VHDL |
+| [🔧 stm32-emulator](https://github.com/Yac0z/stm32-emulator) | STM32 microcontroller emulator | Embedded · C |
 
 </div>
 
