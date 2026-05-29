@@ -92,6 +92,7 @@ class Yacin:
 
 ---
 
+<!--
 ## 🏆 Trophies
 
 <div align="center">
@@ -99,6 +100,7 @@ class Yacin:
 </div>
 
 ---
+-->
 
 ## 🐍 Contribution Snake
 
