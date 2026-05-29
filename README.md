@@ -72,7 +72,7 @@ class Yacin:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yac0z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yac0z&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Yac0z&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ class Yacin:
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yac0z&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yac0z&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
